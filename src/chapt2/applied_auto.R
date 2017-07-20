@@ -1,3 +1,5 @@
+library(ISLR)
+
 summary(Auto)
 
 range(Auto$mpg)

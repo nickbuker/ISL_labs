@@ -1,4 +1,4 @@
-library('ISLR')
+library(ISLR)
 
 head(College)
 fix(College)

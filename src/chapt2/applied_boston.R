@@ -1,6 +1,6 @@
 install.packages('MASS')
 
-library('MASS')
+library(MASS)
 
 head(Boston)
 
